@@ -11,6 +11,8 @@ import { CiDiscount1 } from "react-icons/ci";
 
 const Sidebar = (props) => {
 
+  // eslint-disable-next-line react/prop-types
+  // eslint-disable-next-line react/prop-types
   const {showMenu} = props;
 
   return (
